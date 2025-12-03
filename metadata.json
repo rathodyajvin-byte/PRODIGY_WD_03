@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tic-Tac-Toe",
+  "description": "A modern, glow-themed Tic-Tac-Toe game featuring local multiplayer and a smart AI opponent.",
+  "requestFramePermissions": []
+}
