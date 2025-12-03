@@ -27,7 +27,7 @@
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/neon-tictactoe.git
+    git clone https://github.com/rathodyajvin-byte/neon-tictactoe.git
     ```
 2.  Install dependencies:
     ```bash
